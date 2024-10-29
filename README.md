@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umut Durna</h1>
 <h3 align="center">I'm trying to improve myself in frontend development.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
